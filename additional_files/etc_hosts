@@ -1,0 +1,5 @@
+#
+# localhost is used to configure the loopback interface
+# when the system is booting.  Do not change this entry.
+127.0.0.1   python-app.test.com argocd.test.com python-app-1-dev.test.com
+127.0.0.1   argocd.test.com

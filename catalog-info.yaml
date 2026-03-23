@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: python-app-4
+  description: Python app that that displays time - Named python-app-4
+  annotations:
+    github.com/project-slug: somanath-dange-backstage/python-app-4
+    backstage.io/techdocs-ref: dir:.
+    backstage.io/kubernetes-id: python-app-4
+    sonarqube.org/project-key: somanath-dange-backstage_python-app-4
+spec:
+  type: service
+  owner: development
+  lifecycle: experimental

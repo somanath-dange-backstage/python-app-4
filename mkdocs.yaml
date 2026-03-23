@@ -1,0 +1,12 @@
+site_name: 'python-app-4'
+site_description: 'Main documentation for Python app Service - Named python-app-4'
+repo_url: https://github.com/SomnathDange/python-app-4
+edit_uri: edit/main/docs
+
+plugins:
+  - techdocs-core
+
+# For sidebar navigation on https://backstage.io/, see `microsite/sidebars.js`
+nav:
+  - Overview:
+      - Getting Started: 'docs/index.md'
